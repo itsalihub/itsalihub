@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ali 
 
-<!--
-**itsalihub/itsalihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor's and Master's graduate with a strong interest in **software development, data, and applied AI**.  
+💻 Currently seeking **Junior / Intern positions** where I can grow, learn, and contribute to real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Programming:** Python, C#, basic SQL
+- **Data & ML:** Pandas, NumPy, scikit-learn
+- **Concepts:** Machine Learning basics, data preprocessing, model evaluation
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📂 Featured Projects
+🔹 **Diabetes Prediction (ML)**  
+Machine learning project using Decision Tree and Random Forest models for medical data prediction.  
+👉 Repository: https://github.com/itsalihub/diabetes_prediction_ml
+
+🔹 **Python Mini Projects**  
+Collection of small Python projects demonstrating core programming concepts and problem-solving.  
+👉 Repository: https://github.com/itsalihub/python_mini_projects
+
+---
+
+## 🎯 Career Goals
+- Start my career as a **Junior Software / Data / ML Engineer**
+- Build strong foundations in clean code, problem-solving, and real-world systems
+- Continuously improve through hands-on projects and learning
+
+---
+
+## 📫 Contact
+- 📧 Email: *(ali.eng.ahmedd@gmail.com)*
+- 💼 LinkedIn: *()*
+
+---
+⭐ Always learning. Always improving.
