@@ -1,39 +1,47 @@
-# Hi, I'm Ali 
+# 👋 Hi, I'm Ali Ahmed
 
-🎓 Bachelor's and Master's graduate with a strong interest in **software development, data, and applied AI**.  
-💻 Currently seeking **Junior / Intern positions** where I can grow, learn, and contribute to real-world projects.
+🎓 Master's degree in Robotics  
+💻 Junior Software / Data / ML Engineer (Entry-level)  
+📍 Sofia, Bulgaria  
 
 ---
 
-## 🔧 Technical Skills
-- **Programming:** Python, C#, basic SQL
-- **Data & ML:** Pandas, NumPy, scikit-learn
-- **Concepts:** Machine Learning basics, data preprocessing, model evaluation
-- **Tools:** Git, GitHub, Jupyter Notebook
+## 🔹 About Me
+I am a motivated engineering graduate with a strong interest in software development, data engineering, and applied machine learning.
+I enjoy building projects, learning new technologies, and continuously improving my technical skills.
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Python, SQL, basic C#/.NET
+- **Data & ML:** Pandas, NumPy, Scikit-learn, ML fundamentals
+- **Tools:** Git, GitHub, Linux, Windows
+- **Concepts:** OOP, REST APIs (basic), CI/CD concepts (basic)
 
 ---
 
 ## 📂 Featured Projects
-🔹 **Diabetes Prediction (ML)**  
-Machine learning project using Decision Tree and Random Forest models for medical data prediction.  
-👉 Repository: https://github.com/itsalihub/diabetes_prediction_ml
+- 🔹 **Diabetes Prediction (ML)**  
+  Machine learning project using Decision Tree and Random Forest classifiers  
+  👉 https://github.com/itsalihub/diabetes_prediction_ml
 
-🔹 **Python Mini Projects**  
-Collection of small Python projects demonstrating core programming concepts and problem-solving.  
-👉 Repository: https://github.com/itsalihub/python_mini_projects
+- 🔹 **Python Mini Projects**  
+  Collection of small Python projects for learning and practice  
+  👉 https://github.com/itsalihub/python_mini_projects
 
 ---
 
-## 🎯 Career Goals
-- Start my career as a **Junior Software / Data / ML Engineer**
-- Build strong foundations in clean code, problem-solving, and real-world systems
-- Continuously improve through hands-on projects and learning
+## 🎯 Currently Looking For
+- Junior Software Engineer
+- Junior Data Engineer / Analyst
+- Machine Learning / AI Intern or Junior roles
 
 ---
 
 ## 📫 Contact
-- 📧 Email: *(ali.eng.ahmedd@gmail.com)*
-- 💼 LinkedIn: *()*
+📧 Email: ali.eng.ahmed@gmail.com  
+💻 GitHub: https://github.com/itsalihub
+
 
 ---
 ⭐ Always learning. Always improving.
