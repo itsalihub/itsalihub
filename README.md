@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Ahmed
 
 🎓 Master's degree in Robotics  
-💻 Junior Software / Data / ML Engineer (Entry-level)  
+💻 Junior Software / Data / ML Engineer   
 📍 Sofia, Bulgaria  
 
 ---
