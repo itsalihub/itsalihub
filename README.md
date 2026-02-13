@@ -41,7 +41,7 @@ I enjoy building projects, learning new technologies, and continuously improving
 ## 📫 Contact
 📧 Email: ali.eng.ahmedd@gmail.com  
 💻 GitHub: https://github.com/itsalihub
-💼 LinkedIn: https://www.linkedin.com/in/ali-ahmed
+💼 LinkedIn: https://www.linkedin.com/in/ali-ahmed-ai
 
 ---
 ⭐ Always learning. Always improving.
