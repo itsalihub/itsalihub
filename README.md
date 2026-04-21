@@ -16,7 +16,8 @@ Engineering graduate with an MSc in Robotics, building practical experience in P
 **Programming:** Python, Java, SQL  
 **Testing & Automation:** Selenium WebDriver, TestNG  
 **Data & ML:** Pandas, NumPy, Scikit-learn  
-**Tools:** Git, GitHub, Maven 
+**Tools:** Git, GitHub, Maven
+
 **Learning:** Docker, LangChain, REST APIs
 **Operating Systems:** Linux, Windows  
 **Concepts:** OOP, REST APIs (basic), CI/CD (basic), Troubleshooting  
