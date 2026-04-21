@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Ali Ahmed  
 
 🎓 Master of Science in Robotics  
-💻 Junior Software / QA Automation / Data Engineer  
+💻 Junior Python Developer | Data & Automation | MSc Robotics  
 📍 Sofia, Bulgaria  
 
 ---
 
 ## 🔹 About Me  
-Motivated engineering graduate with a strong interest in software development, automation, and data-driven solutions.  
-
-Hands-on experience with Python, Java, and Selenium WebDriver through practical projects, including test automation and data processing systems.  
-
-I enjoy solving problems, building real-world projects, and continuously improving my technical and analytical skills.  
+Engineering graduate with an MSc in Robotics, building practical experience in Python, data processing pipelines, and machine learning. Interested in backend development, automation, and AI-driven solutions. Currently seeking my first professional role where I can contribute and grow.
 
 ---
 
@@ -20,7 +16,8 @@ I enjoy solving problems, building real-world projects, and continuously improvi
 **Programming:** Python, Java, SQL  
 **Testing & Automation:** Selenium WebDriver, TestNG  
 **Data & ML:** Pandas, NumPy, Scikit-learn  
-**Tools:** Git, GitHub, Maven  
+**Tools:** Git, GitHub, Maven 
+Learning: Docker, LangChain, REST APIs
 **Operating Systems:** Linux, Windows  
 **Concepts:** OOP, REST APIs (basic), CI/CD (basic), Troubleshooting  
 
@@ -51,7 +48,7 @@ Machine learning project using Decision Tree and Random Forest
 
 ---
 
-### 🔹 Python Mini Projects  
+### 🔹 Python Automation & Data Scripts  
 Collection of small Python projects for practice and learning  
 
 👉 https://github.com/itsalihub/python_mini_projects  
@@ -59,11 +56,10 @@ Collection of small Python projects for practice and learning
 ---
 
 ## 🎯 Currently Looking For  
-
-- Junior QA Automation Engineer  
-- Junior Software Engineer  
-- Technical Support / IT roles  
-- Data / ML Internship or Junior roles  
+  
+  - Junior Software Engineer
+  - Junior Data / ML Engineer
+  
 
 ---
 
