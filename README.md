@@ -19,6 +19,7 @@ Engineering graduate with an MSc in Robotics, building practical experience in P
 **Tools:** Git, GitHub, Maven
 
 **Learning:** Docker, LangChain, REST APIs
+
 **Operating Systems:** Linux, Windows  
 **Concepts:** OOP, REST APIs (basic), CI/CD (basic), Troubleshooting  
 
