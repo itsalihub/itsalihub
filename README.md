@@ -21,7 +21,7 @@ Engineering graduate with an MSc in Robotics, building practical experience in P
 **Learning:** Docker, LangChain, REST APIs
 
 **Operating Systems:** Linux, Windows  
-**Concepts:** OOP, REST APIs (basic), CI/CD (basic), Troubleshooting  
+**Concepts:** OOP, CI/CD (basic), Troubleshooting  
 
 ---
 
