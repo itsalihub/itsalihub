@@ -21,7 +21,7 @@ Engineering graduate with an MSc in Robotics, building practical experience in P
 **Learning:** Docker, LangChain, REST APIs
 
 **Operating Systems:** Linux, Windows  
-**Concepts:** OOP, CI/CD (basic), Troubleshooting  
+**Concepts:** OOP, CI/CD, Troubleshooting  
 
 ---
 
@@ -61,6 +61,7 @@ Collection of small Python projects for practice and learning
   
   - Junior Software Engineer
   - Junior Data / ML Engineer
+  - QA Automation Engineer
   
 
 ---
